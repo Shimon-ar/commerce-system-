@@ -1,0 +1,3 @@
+/Users/shimon/Desktop/commerce/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shimon/Desktop/commerce/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shimon/Desktop/commerce/cmake-build-debug/CMakeFiles/projectv3.dir
